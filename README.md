@@ -38,7 +38,6 @@ This project provides three endpoints:
 
 You can integrate these functionalities into your web application using HTML. Below is a basic example:
 
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -55,7 +54,7 @@ You can integrate these functionalities into your web application using HTML. Be
 </body>
 </html>
 
-Replace the src attribute value with the desired endpoint (/video/live, /video/fastorslow, or /video/playmp4) to play the corresponding video content.
+Replace the `src` attribute value with the desired endpoint (`/video/live`, `/video/fastorslow`, or `/video/playmp4`) to play the corresponding video content.
 
 ## Disclaimer
 Ensure that you have necessary permissions to stream and play the video content. Make sure to handle user authentication and authorization appropriately in your application.
