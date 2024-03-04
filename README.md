@@ -40,6 +40,11 @@ Ensure that you have necessary permissions to stream and play the video content.
 ## Contributions
 Contributions to enhance and improve this project are welcome. Feel free to submit pull requests or open issues for any suggestions or improvements.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
 ## Example HTML Usage
 
 You can integrate these functionalities into your web application using HTML. Below is a basic example:
